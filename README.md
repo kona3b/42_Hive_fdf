@@ -1,5 +1,8 @@
 # fdf
 A project for Hive. How to open a graphic window and draw inside? FdF offers to visualize “iron wire” meshing in 3D.
 
-![](https://github.com/kona3b/42_Hive_fdf/fdf_scr.png)
-![](https://github.com/kona3b/42_Hive_fdf/fdf_small.gif)
+<div>
+  <img src="https://github.com/kona3b/42_Hive_fdf/fdf_scr.png?raw=true)"/>
+  
+  <img src="https://github.com/kona3b/42_Hive_fdf/fdf_small.gif?raw=true)"/>
+</div>
